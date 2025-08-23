@@ -314,7 +314,7 @@ Install MolmoAct:
 
 ```
 pip install opencv-python-headless # we were on headless server
-pip install einops torchvision accelerate vllm=0.8.5 transformers==4.52.3
+pip install einops torchvision accelerate vllm==0.8.5 transformers==4.52.3
 pip install "numpy<2"
 ```
 
